@@ -1,4 +1,28 @@
-# Caffe
+# caffe3D
+
+This copy of caffe3D is based on the offical caffe platform, but we have developped the following (not limited to) new functions to work on 3D environment:
+
+1. 3D operations (conv/deconv/pooling...)
+
+2. Pixel-wise (voxel-vise) Weighted Euclidean Loss
+
+3. Pixel-wise (voxel-vise) Weighted Softmax Loss
+
+4. Category-wise Weighted Softmax Loss
+
+5. Smooth L1 Loss
+
+6. CRF as RNN (combine CRF into the FCN-like segmnetaiton network and train end-to-end)
+
+7. Video Type Data Reader
+
+8. Multilinear interpolation (official is bilinear, as medical image is usually 3D)
+
+It will be very kind of you if you cite our paper (for which, we develop the caffe3D) when you feel this repository is helpful for you:
+
+    "Dong Nie, Li Wang, Ehsan Adeli, Cuijing Lao, Weili Lin, Dinggang Shen. 3D Fully Convolutional Networks for Multi-Modal Isointense Infant Brain Image Segmentation, IEEE Transactions on Cybernetics, 2018." (for details, you can refer to https://github.com/ginobilinie/infantSeg)
+
+The following part is directly from the offical caffe readme:
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
@@ -35,3 +59,4 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+
