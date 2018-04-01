@@ -1,5 +1,6 @@
 /*
  Category-wise softmax loss function
+ Jan, 2016
 */
 #include <algorithm>
 #include <cfloat>
