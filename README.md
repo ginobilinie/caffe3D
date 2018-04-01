@@ -17,7 +17,9 @@ This copy of caffe3D is based on the offical caffe platform, but we have develop
 7. Video Type Data Reader
 
 8. Multilinear interpolation (official is bilinear, as medical image is usually 3D)
+
 ...
+
 It will be very kind of you if you cite our paper (for which, we develop the caffe3D) when you feel this repository is helpful for you:
 
 "Dong Nie, Li Wang, Ehsan Adeli, Cuijing Lao, Weili Lin, Dinggang Shen. 3D Fully Convolutional Networks for Multi-Modal Isointense Infant Brain Image Segmentation, IEEE Transactions on Cybernetics, 2018." (for details, you can refer to https://github.com/ginobilinie/infantSeg)
