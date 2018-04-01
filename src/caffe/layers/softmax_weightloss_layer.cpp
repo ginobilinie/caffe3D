@@ -1,3 +1,7 @@
+/*
+	Pixel-vise (voxel-vise softmax loss)
+	May, 2017
+*/
 #include <algorithm>
 #include <cfloat>
 #include <vector>
