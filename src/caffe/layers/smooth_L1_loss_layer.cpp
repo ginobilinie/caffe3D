@@ -1,5 +1,6 @@
 // ------------------------------------------------------------------
 // This copy of code is originally written by Ross Girshick, I adjust it to 3D case and new version of caffe, also make it no weights.
+// Dong Nie
 // ------------------------------------------------------------------
 
 #include "caffe/layers/smoothL1_layer.hpp"
