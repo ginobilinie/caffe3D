@@ -1,3 +1,6 @@
+/*
+ Category-wise softmax loss function
+*/
 #include <algorithm>
 #include <cfloat>
 #include <vector>
