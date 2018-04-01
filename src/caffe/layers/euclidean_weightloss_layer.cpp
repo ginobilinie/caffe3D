@@ -1,5 +1,6 @@
 /*
  Pixel-wise (Voxel-wise) euclidean loss
+ Aug, 2016
 */
 
 #include <vector>
