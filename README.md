@@ -18,7 +18,7 @@ This copy of caffe3D is based on the offical caffe platform, but we have develop
 
 8. Multilinear interpolation (official is bilinear, as medical image is usually 3D)
 
-...
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
 
 It will be very kind of you if you cite our paper (for which, we develop the caffe3D) when you feel this repository is helpful for you:
 
