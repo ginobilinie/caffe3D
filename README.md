@@ -23,7 +23,6 @@ It will be very kind of you if you cite our paper (for which, we develop the caf
 "Dong Nie, Li Wang, Ehsan Adeli, Cuijing Lao, Weili Lin, Dinggang Shen. 3D Fully Convolutional Networks for Multi-Modal Isointense Infant Brain Image Segmentation, IEEE Transactions on Cybernetics, 2018." (for details, you can refer to https://github.com/ginobilinie/infantSeg)
 
 The comiplation have the same requirement with the official caffe. And we suggest to use the following environment:
-
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unbuntu 14.04 (or 16.04)
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cuda 8.0
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cudnn 5.1
