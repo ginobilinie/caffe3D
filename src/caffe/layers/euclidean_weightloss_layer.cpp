@@ -1,3 +1,7 @@
+/*
+ Pixel-wise (Voxel-wise) euclidean loss
+*/
+
 #include <vector>
 
 #include "caffe/layers/euclidean_weightloss_layer.hpp"
