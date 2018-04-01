@@ -11,6 +11,8 @@
  *             Chang Huang, Philip H. S. Torr. Conditional Random Fields as Recurrent Neural Networks. IEEE ICCV 2015.
  *
  *             For more information about CRF-RNN, please visit the project website http://crfasrnn.torr.vision.
+ *              
+ *              The original work only works for 2D, we have adjusted it to work with 3D cases.
  */
 #include <vector>
 
